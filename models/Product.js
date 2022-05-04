@@ -18,7 +18,7 @@ Product.init(
     },
     // Define the product name
     product_name: {
-      type: DataTypes.INTEGER, 
+      type: DataTypes.STRING, 
       allowNull: false
     },
     // Define the price
