@@ -15,7 +15,7 @@ Category.init(
     },
     // Define the category name
     category_name: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false
     },
   },
