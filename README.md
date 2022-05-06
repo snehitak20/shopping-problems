@@ -41,7 +41,7 @@ POST, PUT, and DELETE products routes:
 ## Technologies Used
 
 * JavaScript
-    * Express.js: Sequelize
+    * Express.js: Sequelize, dotenv 
 * MySQL
 * Insomnia Core
 
@@ -96,7 +96,7 @@ Initial prompt and code given by UC Berkeley Extension, Coding Bootcamp.
 
 ## Reflection
 
-This project required the understanding of many different concepts. Express.js is useful in creating the different routers to establish the different API routes. MySQL is used here to create the initial database. Sequelize is used to establish a connection to the server along with the use of the .env file which helps protect any passwords that are used to establish that connection. The hardest part of this project was writing the differrent routes. This project stands out because it is a working database with a proper backend. 
+This project required the understanding of many different concepts. Express.js is useful in creating the different routers to establish the different API routes. MySQL is used here to create the initial database. Sequelize is used to establish a connection to the server and create models. The use of the .env file helps protect any passwords that are used to establish that connection. The hardest part of this project was writing the differrent routes. This project stands out because it is a working database with a proper backend. 
 
 ## License
 
